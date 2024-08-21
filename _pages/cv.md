@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, North Carolina State University, 2029 (expected)
+* Master's in Computer Science, North Carolina State University, 2024
+* B.E. in Computer Science, Southern University of Science and Technology, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 - Present: Research Assistant
+  * North Carolina State University
+  * Supervisor: Dr. Man-Ki Yoon
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2024 - May 2024: Teaching Assistant
+  * North Carolina State University
+  * Supervisor: Dr. Man-Ki Yoon
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2023 - May 2023: Teaching Assistant
+  * North Carolina State University
+  * Supervisor: Dr. Shuyin Jiao
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sep 2021 - Jun 2022: Research Assistant
+  * Southern University of Science and Technology
+  * Supervisor: Dr. Qi Hao
+
+* Jun 2020 - Aug 2020: Software Engineer Intern
+  * JD.COM
 
 Publications
 ======
@@ -47,18 +42,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * 100th IEEE Vehicular Technology Conference (VTC 2024 Fall)
+
+
+Awards
+======
+* Outstanding Undergraduate Thesis
+  * Southern University of Science and Technology, Jun 2021
+
+* Meritorious Prize
+  * COMAP'S Mathematical Contest in Modeling (MCM), Mar 2019
