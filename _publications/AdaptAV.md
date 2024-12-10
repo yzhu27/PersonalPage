@@ -7,8 +7,18 @@ excerpt: 'Deploying vision perception models in autonomous vehicles requires tha
 date: 2024-10-7
 venue: 'VTC 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Yuheng Z., Dhruva U., Boluo G. & Man-Ki Y. (2024). AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle. Proceedings of the 100th IEEE Vehicular Technology Conference, Oct. 2024'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10757493'
+citation: 
+```
+@inproceedings{zhu2024adaptav,
+  title={AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle},
+  author={Zhu, Yuheng and Ungrupulithaya, Dhruva and Ge, Boluo and Yoon, Man-Ki},
+  booktitle={2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)},
+  pages={1--7},
+  year={2024},
+  organization={IEEE}
+}
+```
 ---
 
 Abstract:
