@@ -9,7 +9,7 @@ venue: 'VTC 2024'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10757493'
 citation: 
-```
+```latex
 @inproceedings{zhu2024adaptav,
   title={AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle},
   author={Zhu, Yuheng and Ungrupulithaya, Dhruva and Ge, Boluo and Yoon, Man-Ki},
