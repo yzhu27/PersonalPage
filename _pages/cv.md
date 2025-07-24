@@ -17,7 +17,15 @@ Education
 
 Work experience
 ======
-* Sep 2023 - Present: Research Assistant
+* Jun 2025 - Aug 2025: Engineer Intern
+  * Qualcomm
+  * Qualcomm Automotive IVI/ADAS (San Diego)
+
+* Jan 2025 - May 2025: Teaching Assistant
+  * North Carolina State University
+  * Supervisor: Dr. Shuyin Jiao
+
+* Sep 2023 - Dec 2024: Research Assistant
   * North Carolina State University
   * Supervisor: Dr. Man-Ki Yoon
 
@@ -35,6 +43,7 @@ Work experience
 
 * Jun 2020 - Aug 2020: Software Engineer Intern
   * JD.COM
+  * Jingdong AI Research Center
 
 Publications
 ======
@@ -51,7 +60,10 @@ Teaching
   
 Services
 ======
+* Technical Program Committee
+  * 101th IEEE Vehicular Technology Conference (VTC 2025 Spring)
 * Reviewer
+  * 101th IEEE Vehicular Technology Conference (VTC 2025 Spring)
   * 100th IEEE Vehicular Technology Conference (VTC 2024 Fall)
 
 
